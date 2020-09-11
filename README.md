@@ -9,5 +9,4 @@
 
 1. Synopsis Report
 2. Final Report
-3. Synopsis Presentation
-4. Final Presentation
+3. Final Presentation
